@@ -1,0 +1,5 @@
+# Ignorer le répertoire build/ et tout son contenu
+build/
+
+# Ignorer tous les fichiers .bak
+*.bak
